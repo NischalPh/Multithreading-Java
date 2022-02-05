@@ -1,4 +1,4 @@
-package com.nischal.multithreading.threadbasics;
+package com.nischal.threads.threadbasics;
 
 import java.util.Date;
 

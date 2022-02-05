@@ -1,4 +1,4 @@
-package com.nischal.multithreading.threadbasics;
+package com.nischal.threads.threadbasics;
 
 public class Main {
     public static void main(String[] args) {
